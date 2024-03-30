@@ -1,0 +1,115 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+h1{
+  text-align: center;
+  margin-top: 40px;
+}
+
+body{
+  width: 100%;
+}
+.container{
+  width: 700px;
+  height: 100%;
+  margin: auto;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 40%;
+  padding: 15px;
+  border: 1px solid black;
+  border-radius: 25px;
+  background-color: beige;
+}
+
+#black{
+  padding: 5px;
+  border-radius: 25px;
+  background-color: black;
+  color: white;
+  outline: none;
+  border: none;
+
+}
+#white{
+  padding: 5px;
+  border-radius: 25px;
+  background-color: white;
+  color: black;
+  outline: none;
+  border: none;
+
+}
+#red{
+  padding: 5px;
+  border-radius: 25px;
+  background-color: red;
+  color: black;
+  outline: none;
+  border: none;
+
+}
+#blue{
+  padding: 5px;
+  border-radius: 25px;
+  background-color: blue;
+  color: black;
+  outline: none;
+  border: none;
+
+}
+#pink{
+  padding: 5px;
+  border-radius: 25px;
+  background-color: pink;
+  color: black;
+  outline: none;
+  border: none;
+
+}
+#purple{
+  padding: 5px;
+  border-radius: 25px;
+  background-color: purple;
+  color: black;
+  outline: none;
+  border: none;
+
+}
+#yellow{
+  padding: 5px;
+  border-radius: 25px;
+  background-color: yellow;
+  color: black;
+  outline: none;
+  border: none;
+
+}
+#green{
+  padding: 5px;
+  border-radius: 25px;
+  background-color: green;
+  color: black;
+  outline: none;
+  border: none;
+
+}
+#lavender{
+  padding: 5px;
+  border-radius: 25px;
+  background-color:lavender;
+  color: white;
+  outline: none;
+  border: none;
+}
+#olive{
+  padding: 5px;
+  border-radius: 25px;
+  background-color:olive;
+  color: black;
+  outline: none;
+  border: none;
+}
